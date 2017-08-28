@@ -68,6 +68,15 @@ public class Operaciones {
     }
     i=++i +2;
     System.out.println(i);
+    
+    
+    int[] vec={86,68,3,52,8,12};
+    for(int num:vec){
+
+    System.out.printf(" valor " +num);
     }
+    
+    
+}
 }
 
